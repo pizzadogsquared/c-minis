@@ -1,0 +1,30 @@
+Microsoft Windows [Version 10.0.22621.2283]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\pizza>cd C:\Users\pizza\Desktop\sophhomework\cs136lecture\PP3
+
+C:\Users\pizza\Desktop\sophhomework\cs136lecture\PP3>gcc -Wall test.c -o output.exe
+
+C:\Users\pizza\Desktop\sophhomework\cs136lecture\PP3>output.exe
+soil
+
+Invalid option. Please type 'y' to play or 'n' to exit: pizza
+
+Invalid option. Please type 'y' to play or 'n' to exit: flower
+
+Invalid option. Please type 'y' to play or 'n' to exit: y
+
+Invalid option. Please type 'y' to play or 'n' to exit: n
+
+Invalid option. Please type 'y' to play or 'n' to exit: elijah
+
+Invalid option. Please type 'y' to play or 'n' to exit: the quick brown fox jumped over the lazy dog
+
+Invalid option. Please type 'y' to play or 'n' to exit:
+Invalid option. Please type 'y' to play or 'n' to exit:
+Invalid option. Please type 'y' to play or 'n' to exit:
+Invalid option. Please type 'y' to play or 'n' to exit:
+Invalid option. Please type 'y' to play or 'n' to exit:
+Invalid option. Please type 'y' to play or 'n' to exit:
+Invalid option. Please type 'y' to play or 'n' to exit:
+Invalid option. Please type 'y' to play or 'n' to exit:

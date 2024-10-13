@@ -1,0 +1,272 @@
+Output 1: the user gives up
+===========================
+
+
+***************************
+Welcome to the Hangman Game
+***************************
+
+Which letter? (0 to exit the game): 
+0
+You gave up!
+Come back another time!
+
+
+
+Output 2: the user wins
+=======================
+
+
+***************************
+Welcome to the Hangman Game
+***************************
+
+Which letter? (0 to exit the game): 
+n
+_____n_____
+
+Which letter? (0 to exit the game): 
+b
+b____nb____
+
+Which letter? (0 to exit the game): 
+o
+bo___nb____
+
+Which letter? (0 to exit the game): 
+r
+bo___nb_rr_
+
+Which letter? (0 to exit the game): 
+y
+boy__nb_rry
+
+Which letter? (0 to exit the game): 
+s
+boys_nb_rry
+
+Which letter? (0 to exit the game): 
+e
+boysenberry
+You won the round! Well done!
+
+Do you want to play a new round? [y|n]
+n
+Come back another time!
+
+
+Output 3: the user loses
+========================
+
+
+***************************
+Welcome to the Hangman Game
+***************************
+sapote
+
+Which letter? (0 to exit the game): 
+r
+The letter doesn't exist in the word.
+Mistakes: r*****
+
+Which letter? (0 to exit the game): 
+a
+_a____
+
+Which letter? (0 to exit the game): 
+g
+The letter doesn't exist in the word.
+Mistakes: rg****
+
+Which letter? (0 to exit the game): 
+b
+The letter doesn't exist in the word.
+Mistakes: rgb***
+
+Which letter? (0 to exit the game): 
+t
+_a__t_
+
+Which letter? (0 to exit the game): 
+
+y
+The letter doesn't exist in the word.
+Mistakes: rgby**
+
+Which letter? (0 to exit the game): 
+j
+The letter doesn't exist in the word.
+Mistakes: rgbyj*
+
+Which letter? (0 to exit the game): 
+w
+The letter doesn't exist in the word.
+Mistakes: rgbyjw
+The secret word was: sapote
+You lost the round!
+
+Do you want to play a new round? [y|n]
+n
+Come back another time!
+
+
+Output 4: the user types an invalid option for a new round
+==========================================================
+
+
+***************************
+Welcome to the Hangman Game
+***************************
+nance
+
+Which letter? (0 to exit the game): 
+n
+n_n__
+
+Which letter? (0 to exit the game): 
+a
+nan__
+
+Which letter? (0 to exit the game): 
+c
+nanc_
+
+Which letter? (0 to exit the game): 
+e
+nance
+You won the round! Well done!
+
+Do you want to play a new round? [y|n]
+f
+I didn't get that. Please use y to yes and n to no.
+Do you want to play a new round? [y|n]
+j
+I didn't get that. Please use y to yes and n to no.
+Do you want to play a new round? [y|n]
+u
+I didn't get that. Please use y to yes and n to no.
+Do you want to play a new round? [y|n]
+n
+Come back another time!
+
+
+Ouptut 5: the user chooses to start another round
+=================================================
+
+
+***************************
+Welcome to the Hangman Game
+***************************
+
+Which letter? (0 to exit the game): 
+s
+s__s___
+
+Which letter? (0 to exit the game): 
+a
+sa_s__a
+
+Which letter? (0 to exit the game): 
+t
+sats__a
+
+Which letter? (0 to exit the game): 
+u
+satsu_a
+
+Which letter? (0 to exit the game): 
+m
+satsuma
+You won the round! Well done!
+
+Do you want to play a new round? [y|n]
+y
+
+Which letter? (0 to exit the game): 
+n
+n______n_
+
+Which letter? (0 to exit the game): 
+e
+ne_____ne
+
+Which letter? (0 to exit the game): 
+c
+nec____ne
+
+Which letter? (0 to exit the game): 
+t
+nect___ne
+
+Which letter? (0 to exit the game): 
+a
+necta__ne
+
+Which letter? (0 to exit the game): 
+r
+nectar_ne
+
+Which letter? (0 to exit the game): 
+u
+The letter doesn't exist in the word.
+Mistakes: u*****
+
+Which letter? (0 to exit the game): 
+i
+nectarine
+You won the round! Well done!
+
+Do you want to play a new round? [y|n]
+n
+Come back another time!
+
+
+Output 6: the user types repeated guesses
+=========================================
+
+
+***************************
+Welcome to the Hangman Game
+***************************
+salmonberry
+
+Which letter? (0 to exit the game): 
+s  
+s__________
+
+Which letter? (0 to exit the game): 
+a
+sa_________
+
+Which letter? (0 to exit the game): 
+a
+Repeated guess. Try another letter!
+
+Which letter? (0 to exit the game): 
+s
+Repeated guess. Try another letter!
+
+Which letter? (0 to exit the game): 
+g
+The letter doesn't exist in the word.
+Mistakes: g*****
+
+Which letter? (0 to exit the game): 
+t
+The letter doesn't exist in the word.
+Mistakes: gt****
+
+Which letter? (0 to exit the game): 
+g
+The letter doesn't exist in the word.
+Repeated guess. Try another letter!
+
+Which letter? (0 to exit the game): 
+t
+The letter doesn't exist in the word.
+Repeated guess. Try another letter!
+
+Which letter? (0 to exit the game): 
+0
+You gave up!
+Come back another time!

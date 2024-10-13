@@ -1,0 +1,478 @@
+Battleship Game
+===============
+
+Game board:
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 0
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 3
+Miss!
+Current game board:
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 93
+Invalid input. Please enter a number between 0 and 9.
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 9
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 3
+Ship!
+Current game board:
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 8
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 3
+Ship!
+Current game board:
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 7
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 3
+Ship!
+Current game board:
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 6
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 3
+Miss!
+Current game board:
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 5
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 5
+Ship!
+Current game board:
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ S _ _ _ _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 5
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 6
+Ship!
+Current game board:
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ S S _ _ _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 5
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 6
+Ship!
+Current game board:
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ S S _ _ _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 5
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 6
+Ship!
+Current game board:
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ S S _ _ _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 5
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 7
+Ship!
+Current game board:
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ S S S _ _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 5
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 8
+Miss!
+Current game board:
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 5
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 4
+Ship!
+Current game board:
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 5
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 3
+Miss!
+Current game board:
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 0
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 7
+Miss!
+Current game board:
+_ _ _ W _ _ _ W _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 
+0
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 9
+Miss!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 6
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 3
+Miss!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 7
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 6
+Ship!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ _ S _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 7
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 5
+Ship!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S _ S S _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 7
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 4
+Ship!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S S S S _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 7
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 3
+Ship!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ S S S S _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 7
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 2
+Miss!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ W S S S S _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 7
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 7
+Ship!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ W S S S S S _ _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 7
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 8
+Ship!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ W S S S S S S _ 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 7
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 9
+Miss!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ W S S S S S S W 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 
+2
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 3
+Miss!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ W S S S S S S W 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 2
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 5
+Miss!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W _ W _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ W S S S S S S W 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 2
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 7
+Miss!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W _ W _ W _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ W S S S S S S W 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 2
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 9
+Ship!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W _ W _ W _ S 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ W S S S S S S W 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 1
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 9
+Miss!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ W 
+_ _ _ W _ W _ W _ S 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ W S S S S S S W 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 3
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 9
+Ship!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ W 
+_ _ _ W _ W _ W _ S 
+_ _ _ _ _ _ _ _ _ S 
+_ _ _ _ _ _ _ _ _ _ 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ W S S S S S S W 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 4
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 9
+Ship!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ W 
+_ _ _ W _ W _ W _ S 
+_ _ _ _ _ _ _ _ _ S 
+_ _ _ _ _ _ _ _ _ S 
+_ _ _ W S S S S W _ 
+_ _ _ W _ _ _ _ _ _ 
+_ _ W S S S S S S W 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: 5
+Enter the COLUMN (0-9) where you want to shoot or -1 to give up: 9
+Miss!
+Current game board:
+_ _ _ W _ _ _ W _ W 
+_ _ _ _ _ _ _ _ _ W 
+_ _ _ W _ W _ W _ S 
+_ _ _ _ _ _ _ _ _ S 
+_ _ _ _ _ _ _ _ _ S 
+_ _ _ W S S S S W W 
+_ _ _ W _ _ _ _ _ _ 
+_ _ W S S S S S S W 
+_ _ _ S _ _ _ _ _ _ 
+_ _ _ S _ _ _ _ _ _ 
+Enter the ROW (0-9) where you want to shoot or -1 to give up: -1
+You gave up. Here is the solution board:
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 3 0 0 0 0 0 2 2 
+0 0 3 0 4 0 0 0 2 2 
+0 0 3 0 4 0 0 0 2 2 
+4 0 0 0 4 3 3 3 0 0 
+4 2 2 0 4 0 0 0 0 0 
+4 0 0 3 5 5 5 5 5 0 
+4 0 0 3 0 0 0 0 0 0 
+0 0 0 3 0 0 0 0 0 0 

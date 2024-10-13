@@ -1,0 +1,162 @@
+Output 1: the user types zero
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 0
+Program ended.
+
+================================================================================
+Output 2: the user types incorrect values for the range
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 5
+Invalid option. Please enter a value within the range 1-3 (or 0 to exit): 6
+Invalid option. Please enter a value within the range 1-3 (or 0 to exit): 4
+Invalid option. Please enter a value within the range 1-3 (or 0 to exit): 2
+
+Searching for 2:
+First Occurrence: 5
+Last Occurrence: 6
+All Occurrences: 5, 6
+Total Occurrences: 2
+
+Do you want to search for another value [y|n]? n
+Program ended.
+
+================================================================================
+Output 3: the user types incorrect values continuing or not (ends with 0)
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 2
+
+Searching for 2:
+First Occurrence: 1
+Last Occurrence: 10
+All Occurrences: 1, 7, 10
+Total Occurrences: 3
+
+Do you want to search for another value [y|n]? r
+Invalid option. Please type 'y' to play or 'n' to exit: g
+Invalid option. Please type 'y' to play or 'n' to exit: s
+Invalid option. Please type 'y' to play or 'n' to exit: b
+Invalid option. Please type 'y' to play or 'n' to exit: y
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 3
+
+Searching for 3:
+First Occurrence: 2
+Last Occurrence: 8
+All Occurrences: 2, 3, 4, 8
+Total Occurrences: 4
+
+Do you want to search for another value [y|n]? u
+Invalid option. Please type 'y' to play or 'n' to exit: y
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 0
+Program ended.
+
+================================================================================
+Output 4: The user ends the program by choosing 'n'
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 1
+
+Searching for 1:
+First Occurrence: 2
+Last Occurrence: 10
+All Occurrences: 2, 4, 10
+Total Occurrences: 3
+
+Do you want to search for another value [y|n]? 2
+Invalid option. Please type 'y' to play or 'n' to exit: 0
+Invalid option. Please type 'y' to play or 'n' to exit: n
+Program ended.
+
+================================================================================
+Output 5: The user searched for all the three numbers and regenerate
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 1
+
+Searching for 1:
+First Occurrence: 1
+Last Occurrence: 8
+All Occurrences: 1, 3, 5, 8
+Total Occurrences: 4
+
+Do you want to search for another value [y|n]? Y
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 2
+
+Searching for 2:
+First Occurrence: 2
+Last Occurrence: 10
+All Occurrences: 2, 6, 9, 10
+Total Occurrences: 4
+
+Do you want to search for another value [y|n]? Y
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 3
+
+Searching for 3:
+First Occurrence: 4
+Last Occurrence: 7
+All Occurrences: 4, 7
+Total Occurrences: 2
+
+Do you want to search for another value [y|n]? Y
+
+You have already searched for all the possible values in the list.
+Do you want to generate new values for the list [y|n]? Y
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 1
+
+Searching for 1:
+First Occurrence: 7
+Last Occurrence: 9
+All Occurrences: 7, 8, 9
+Total Occurrences: 3
+
+Do you want to search for another value [y|n]? Y
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 2
+
+Searching for 2:
+First Occurrence: 1
+Last Occurrence: 10
+All Occurrences: 1, 2, 3, 4, 6, 10
+Total Occurrences: 6
+
+Do you want to search for another value [y|n]? N
+Program ended.
+
+================================================================================
+Output 6: The user searched for all the three numbers and do not regenerate
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 1
+
+Searching for 1:
+First Occurrence: 1
+Last Occurrence: 10
+All Occurrences: 1, 4, 5, 6, 7, 8, 9, 10
+Total Occurrences: 8
+
+Do you want to search for another value [y|n]? y
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 2
+
+Searching for 2:
+Value not found!
+
+
+Do you want to search for another value [y|n]? y
+
+Enter a number to search in the range [1-3], inclusive (0 to exit): 3
+
+Searching for 3:
+First Occurrence: 2
+Last Occurrence: 3
+All Occurrences: 2, 3
+Total Occurrences: 2
+
+Do you want to search for another value [y|n]? y
+
+You have already searched for all the possible values in the list.
+Do you want to generate new values for the list [y|n]? n
+
+Thanks for searching. Come back if needed!
+Program ended.

@@ -1,0 +1,75 @@
+Sample 1:
+
+Call Option Price Calculator (Black-Scholes Model)
+==================================================
+
+Please provide the data for Call Option Price calculation
+Inform the current stock price (S):
+100
+Inform the strike price (X):
+110
+Inform the risk-free interest rate (r - a number between 0.0-1.0):
+0.05
+Inform the time to expiration in years (T):
+1
+Inform the volatility (sigma - a number between 0.0-1.0):
+0.10
+
+Calculating the Call Option Price...
+
+Black-Scholes Call Option Price: 2.17
+
+The call option is potentially interesting.
+End program.
+
+Sample 2:
+
+Call Option Price Calculator (Black-Scholes Model)
+==================================================
+
+Please provide the data for Call Option Price calculation
+Inform the current stock price (S):
+100
+Inform the strike price (X):
+150
+Inform the risk-free interest rate (r - a number between 0.0-1.0):
+0.10
+Inform the time to expiration in years (T):
+1
+Inform the volatility (sigma - a number between 0.0-1.0):
+0.5
+
+Calculating the Call Option Price...
+
+Black-Scholes Call Option Price: 9.49
+
+The call option is not interesting.
+The premium is high, indicating potential risks like high volatility or uncertainty about the stock's future direction.
+
+End program.
+
+Sample 3:
+
+Call Option Price Calculator (Black-Scholes Model)
+==================================================
+
+Please provide the data for Call Option Price calculation
+Inform the current stock price (S):
+100
+Inform the strike price (X):
+200
+Inform the risk-free interest rate (r - a number between 0.0-1.0):
+0.05
+Inform the time to expiration in years (T):
+2
+Inform the volatility (sigma - a number between 0.0-1.0):
+0.1
+
+Calculating the Call Option Price...
+
+Black-Scholes Call Option Price: 0.00
+
+The call option is not interesting.
+The premium is very low, indicating lower expectations for the stock's price movement or lack of demand for the option.
+
+End program.
